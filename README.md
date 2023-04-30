@@ -67,8 +67,8 @@ namespace Pattern
     }
 }
 ```
-Output:
+## Output:
 ![image](https://user-images.githubusercontent.com/93427246/227568743-34c1b25a-28e5-4130-8b58-b2a966e9a300.png)
 
-Result:
+## Result:
 Hence, a C# program for a pascal's triangle is executed successfully.
