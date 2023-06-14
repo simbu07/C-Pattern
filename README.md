@@ -1,12 +1,12 @@
-# Pattern
-
-## Aim:
+## Ex-3 Pattern
+### Date: 4/4/2023
+### Aim:
 To write a C# program for a pascal's triangle.
 
-## Equipment Required:
+### Equipment Required:
 Microsoft Visual Studio 2022 (or Lower) or Any other C# compiler.
 
-## Algorithm:
+### Algorithm:
 ### Step 1:
 Create a new Class named program.
 
@@ -31,7 +31,7 @@ Print the program.
 ### Step 8:
 End of the Program.
 
-## Program:
+### Program:
 ```
 Developed By: Silambarasan K
 Reg No: 212221230101
@@ -67,8 +67,8 @@ namespace Pattern
     }
 }
 ```
-## Output:
+### Output:
 ![image](https://user-images.githubusercontent.com/93427246/227568743-34c1b25a-28e5-4130-8b58-b2a966e9a300.png)
 
-## Result:
+### Result:
 Hence, a C# program for a pascal's triangle is executed successfully.
